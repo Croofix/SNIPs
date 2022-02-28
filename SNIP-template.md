@@ -1,11 +1,11 @@
 ---
 snip: <to be assigned>
-title: <SNIP title>
-author: <a list of the author's or authors' name(s) and/or username(s), or name(s) and email(s), e.g. (use with the parentheses or triangular brackets): FirstName LastName (@GitHubUsername), FirstName LastName <foo@bar.com>, FirstName (@GitHubUsername) and GitHubUsername (@GitHubUsername)>
+title: SecretNews
+author: Filip (@Croofix)
 discussions-to: <URL>
 status: Draft
-type: <Standard, Meta, or Informational>
-created: <date created on, in ISO 8601 (yyyy-mm-dd) format>
+type: Standard
+created: 2022-02-28
 requires (*optional): <SNIP number(s)>
 replaces (*optional): <SNIP number(s)>
 ---
